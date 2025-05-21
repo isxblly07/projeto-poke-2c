@@ -1,0 +1,13 @@
+.PokeGrid{
+    display: flex;
+    grid-template-columns: 100px 100px;
+    background-color: rgb(255, 230, 0);
+    width: 400px;
+    height: 300px;
+    overflow: auto;
+}
+
+img{
+    width: 100px;
+    height: 80px;
+}
